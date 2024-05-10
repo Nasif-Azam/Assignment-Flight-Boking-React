@@ -1,0 +1,23 @@
+.navbarStyle {
+    background-color: #0c1b4d;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.ulStyle {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.liStyle {
+    display: inline;
+    margin-right: 20px;
+
+}
+
+.linkStyle {
+    color: #fff;
+    text-decoration: none;
+}
